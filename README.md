@@ -1,5 +1,4 @@
 # _Smart_Medicine_Box
-# SMART MEDICINE BOX
 
 ## Description
 
